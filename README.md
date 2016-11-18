@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I`m Dawid. I`m addicted to coffe and to reading!
